@@ -19,6 +19,8 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ![Project Workflow](https://github.com/user-attachments/assets/8bbd5dc9-eb6c-40c1-8f19-c08b4107f654)
 
+End Dashboard:<img width="1282" height="699" alt="image" src="https://github.com/user-attachments/assets/221f595a-b232-470a-80bb-d88543e14201" />
+
 ## 🛠️ How to Use This Project
 
 1. **Clone the repository**
@@ -64,3 +66,4 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 
 ## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
+
